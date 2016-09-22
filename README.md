@@ -14,7 +14,7 @@
 
 [支付宝后台不死的黑科技](http://zhoujianghua.com/2015/07/28/black_technology_in_alipay/)  
 
- ###双进程：  
+ ### 双进程：  
  [AndroidDaemonService](https://github.com/cxmscb/AndroidDaemonService)  
  [ProcessKeep](https://github.com/fenggit/ProcessKeep)  
  
