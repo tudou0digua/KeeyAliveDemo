@@ -12,9 +12,9 @@
 
 [Android平台App进程优先级](http://www.jianshu.com/p/6201dc3a447a)
 
-[支付宝后台不死的黑科技](http://zhoujianghua.com/2015/07/28/black_technology_in_alipay/)  
+[支付宝后台不死的黑科技](http://zhoujianghua.com/2015/07/28/black_technology_in_alipay/)
 
- ### 双进程：  
+### 双进程：  
  [AndroidDaemonService](https://github.com/cxmscb/AndroidDaemonService)  
  [ProcessKeep](https://github.com/fenggit/ProcessKeep)  
  
