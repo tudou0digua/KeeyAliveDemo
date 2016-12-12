@@ -1,4 +1,4 @@
-package hyapps.cmcc.com.keeyalivedemo.service;
+package cb.example.com.keepalivedemo.service;
 
 import android.app.Notification;
 import android.app.Service;
@@ -9,7 +9,7 @@ import android.os.IBinder;
 import android.util.Log;
 import android.widget.RemoteViews;
 
-import hyapps.cmcc.com.keeyalivedemo.R;
+import cb.example.com.keepalivedemo.R;
 
 public class InvisibleForegroundService extends Service {
     private static final int NOTIFICATION_ID = 10086;

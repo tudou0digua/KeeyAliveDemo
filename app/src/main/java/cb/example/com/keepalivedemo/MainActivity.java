@@ -1,9 +1,9 @@
-package hyapps.cmcc.com.keeyalivedemo;
+package cb.example.com.keepalivedemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import hyapps.cmcc.com.keeyalivedemo.service.InvisibleForegroundService;
+import cb.example.com.keepalivedemo.service.InvisibleForegroundService;
 
 public class MainActivity extends AppCompatActivity {
 

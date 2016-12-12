@@ -1,4 +1,4 @@
-package hyapps.cmcc.com.keeyalivedemo;
+package cb.example.com.keepalivedemo;
 
 /**
  * Created by cb on 2016/9/21.

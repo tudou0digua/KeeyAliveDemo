@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hyapps.cmcc.com.keeyalivedemo">
+    package="cb.example.com.keepalivedemo">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:persistent="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="cb.example.com.keepalivedemo.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,8 +17,8 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".service.InvisibleForegroundService" />
-        <service android:name=".service.InvisibleForegroundService$InnerService"/>
+        <service android:name="cb.example.com.keepalivedemo.service.InvisibleForegroundService" />
+        <service android:name="cb.example.com.keepalivedemo.service.InvisibleForegroundService$InnerService"/>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package hyapps.cmcc.com.keeyalivedemo;
+package cb.example.com.keepalivedemo;
 
 import org.junit.Test;
 

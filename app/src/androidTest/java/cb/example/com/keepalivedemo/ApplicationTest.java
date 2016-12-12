@@ -1,4 +1,4 @@
-package hyapps.cmcc.com.keeyalivedemo;
+package cb.example.com.keepalivedemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
