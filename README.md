@@ -1,6 +1,8 @@
-# KeeyAliveDemo
-进程保活  
+# KeepAliveDemo  
 
+代码中只实现了应用一直保持前台进程。。。  
+
+####进程保活  
 [Android 进程保活招式大全](http://chuansong.me/n/504099451432)  
 [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af)  
 [关于 Android 进程保活，你所需要知道的一切源码](https://github.com/D-clock/AndroidDaemonService/blob/master/src/main/java/com/clock/daemon/service/GrayService.java)  
